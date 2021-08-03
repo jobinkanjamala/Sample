@@ -1,1 +1,2 @@
 This is my first line - for first commit.
+Adding a second line for second commit.
